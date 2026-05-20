@@ -473,6 +473,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
       </a>
     </td>
     <td align="center" width="120">
+      <a href="https://github.com/avzuha">
+        <img src="https://github.com/avzuha.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="avzuha" /><br />
+        <sub><b>@avzuha</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
       <a href="https://github.com/ayushyadav0707">
         <img src="https://github.com/ayushyadav0707.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="ayushyadav0707" /><br />
         <sub><b>@ayushyadav0707</b></sub>
@@ -496,14 +502,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@dhanushrajvr</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/gatiksolanki13-netizen">
         <img src="https://github.com/gatiksolanki13-netizen.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="gatiksolanki13-netizen" /><br />
         <sub><b>@gatiksolanki13-netizen</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/iamprasoon2006-cell">
         <img src="https://github.com/iamprasoon2006-cell.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="iamprasoon2006-cell" /><br />
@@ -534,14 +540,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@kumudasrip</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/madhavcodes25">
         <img src="https://github.com/madhavcodes25.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="madhavcodes25" /><br />
         <sub><b>@madhavcodes25</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/mahi-8758">
         <img src="https://github.com/mahi-8758.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="mahi-8758" /><br />
@@ -572,14 +578,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@nimkarprachi17</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/nishtha-agarwal-211">
         <img src="https://github.com/nishtha-agarwal-211.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="nishtha-agarwal-211" /><br />
         <sub><b>@nishtha-agarwal-211</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/parasmani-dev">
         <img src="https://github.com/parasmani-dev.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="parasmani-dev" /><br />
@@ -610,14 +616,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@priya05-git</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/r-sushanth08">
         <img src="https://github.com/r-sushanth08.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="r-sushanth08" /><br />
         <sub><b>@r-sushanth08</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/rashiaggarwal06">
         <img src="https://github.com/rashiaggarwal06.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="rashiaggarwal06" /><br />
@@ -648,14 +654,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@shimonenator</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/shreyasarote7717-cyber">
         <img src="https://github.com/shreyasarote7717-cyber.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shreyasarote7717-cyber" /><br />
         <sub><b>@shreyasarote7717-cyber</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/shreyasgawande19">
         <img src="https://github.com/shreyasgawande19.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shreyasgawande19" /><br />
@@ -686,14 +692,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@steam-bell-92</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/sujitsingh8">
         <img src="https://github.com/sujitsingh8.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="sujitsingh8" /><br />
         <sub><b>@sujitsingh8</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/tanishkakora">
         <img src="https://github.com/tanishkakora.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="tanishkakora" /><br />
@@ -724,12 +730,19 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@vivekCS007</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/yuvraj-k-singh">
         <img src="https://github.com/yuvraj-k-singh.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="yuvraj-k-singh" /><br />
         <sub><b>@yuvraj-k-singh</b></sub>
       </a>
     </td>
+    <td width="120"></td>
+    <td width="120"></td>
+    <td width="120"></td>
+    <td width="120"></td>
+    <td width="120"></td>
   </tr>
 </table>
 <!-- CONTRIBUTORS_END -->
