@@ -403,6 +403,7 @@ function getProjectHTML(projectName) {
         '2048-game': () => get2048GameHTML(),
         'productive-pet': () => getProductivePetHTML(),
         'color-palette': () => getColorPaletteHTML(),
+        'progress-tracker': () => getProgressTrackerHTML(),
         'resume-analyzer': () => getAIResumeAnalyzerHTML(),
         'caesar-cipher': () => getCaesarCipherHTML(),
     };
@@ -3408,3 +3409,14 @@ function initializeProject(projectName) {
 //    - init[ProjectName]()    : Sets up localized states, scopes, and event listeners.
 // ============================================================================
 
+// ============================================
+// PROGRESS TRACKER
+// ============================================
+// Loaded from js/projects/progress-tracker.js
+
+// ============================================
+// PROJECT INITIALIZER — called by main.js after modal opens
+// ============================================
+function initializeProject(name) {
+    if (name === 'progress-tracker') initProgressTracker();
+}
