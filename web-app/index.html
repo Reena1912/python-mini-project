@@ -90,7 +90,10 @@
         <div class="dropdown-content" id="searchDropdownContent">
           <div class="search-loader" id="searchLoader" style="display:none"><div class="spinner"></div></div>
           <div class="recent-searches-section" id="recentSearchesSection">
-            <div class="dropdown-section-title">Recent</div>
+            <div class="dropdown-section-title">
+              <span>Recent</span>
+              <button id="clearRecentBtn" class="recent-clear-all-btn" aria-label="Clear recent searches">Clear All</button>
+            </div>
             <div class="dropdown-list" id="recentSearchesList"></div>
           </div>
           <div class="results-section" id="resultsSection" style="display:none">
@@ -1135,6 +1138,18 @@
     <h3 id="infoModalTitle">How to Play</h3>
     <ul id="infoModalList"></ul>
     <button class="info-modal-btn" id="infoModalGotIt">Got it</button>
+  </div>
+</div>
+
+<!-- Themed Confirm Modal (used for Clear All) -->
+<div id="confirmModalOverlay" class="confirm-modal-overlay" aria-hidden="true">
+  <div class="confirm-modal-content" role="dialog" aria-modal="true" aria-labelledby="confirmModalTitle">
+    <h3 id="confirmModalTitle">Confirm</h3>
+    <p id="confirmModalMessage"></p>
+    <div class="confirm-modal-actions">
+      <button id="confirmCancelBtn" class="btn btn-secondary">Cancel</button>
+      <button id="confirmOkBtn" class="btn btn-primary">Confirm</button>
+    </div>
   </div>
 </div>
 
