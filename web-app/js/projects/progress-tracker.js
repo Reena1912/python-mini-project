@@ -74,7 +74,7 @@ function initProgressTracker() {
         document.getElementById('pt-s-pct').textContent = pct + '%';
         const container = document.getElementById('pt-cats');
         if (!container) return;
-        container.innerHTML = '';
+        container.textContent = '';
         for (const [cat, projects] of Object.entries(PROJECTS)) {
             const catDone = projects.filter(p => done.includes(p)).length;
             const sec = document.createElement('div');

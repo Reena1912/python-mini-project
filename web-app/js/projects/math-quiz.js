@@ -456,7 +456,7 @@ function initMathQuiz() {
         const correctIdx = options.indexOf(correct);
 
         board.innerHTML = `<p class="quiz-question">❓ ${question}</p>`;
-        optWrap.innerHTML = '';
+        optWrap.textContent = '';
         msgEl.textContent = '';
         total += 10;
 
@@ -531,7 +531,7 @@ options.forEach((opt, i) => {
         timerEl.textContent = '⏳ 0';
         timerEl.style.color = '#ff3b30';
         gameRunning = false;
-        optWrap.innerHTML = '';
+        optWrap.textContent = '';
         board.innerHTML = `
             <div>
                 <p class="quiz-gameover">💀 Game Over!</p>
@@ -564,7 +564,7 @@ options.forEach((opt, i) => {
         resetState();
         updateHUD();
         board.innerHTML = '<p class="quiz-start-msg">Press Start to Play! 🎮</p>';
-        optWrap.innerHTML = '';
+        optWrap.textContent = '';
         msgEl.textContent = '';
         startBtn.textContent = '▶️ Start';
     });

@@ -381,7 +381,7 @@ function initWordScramble() {
     }
 
     function renderWord(scrambled) {
-        wordEl.innerHTML = '';
+        wordEl.textContent = '';
         scrambled.toUpperCase().split('').forEach((letter, index) => {
             const tile = document.createElement('span');
             tile.className = 'scramble-tile';
@@ -477,7 +477,7 @@ function checkGuess() {
         updateStats();
         revealAnswer('win');
 
-        setMessage(`✅ Correct!<br><br>Time taken:${timeTaken} seconds <br></br> Speed: ${speedCategory} <br><br>Points Received:+${points} points!`, 'win');
+        setMessage(`✅ Correct!<br><br>Time taken: ${timeTaken} seconds<br>Speed: ${speedCategory} <br><br>Points Received: +${points} points!`, 'win');
         return;
     }
 

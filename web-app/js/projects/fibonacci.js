@@ -67,6 +67,27 @@ function getFibonacciHTML() {
                 font-weight:bold;
                 margin-top:1rem;
             }
+            .btn-generate {
+                background: var(--primary-color);
+                color: white;
+                border: none;
+                padding: 12px 28px;
+                border-radius: 30px;
+                cursor: pointer;
+                font-weight: 600;
+                font-size: 1rem;
+                transition: all 0.2s ease;
+            }
+
+            .btn-generate:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+                filter: brightness(1.05);
+            }
+
+            .btn-generate:active {
+                transform: translateY(0);
+            }
         </style>
     `;
 }
@@ -84,7 +105,7 @@ function initFibonacci() {
 
         // Validation
         if (value === '' || isNaN(n) || n <= 0) {
-            display.innerHTML = `
+            display.textContent = `
                 <p class="fib-error">
                     Please enter a number greater than 0
                 </p>
@@ -93,7 +114,7 @@ function initFibonacci() {
             return;
         }
 
-        display.innerHTML = '';
+        display.textContent = '';
     
         let fib = [0, 1];
         for (let i = 2; i < n; i++) {
